@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "E:/project/solutions-step3/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "E:/project/solutions-step3/./frontend/generated/jar-resources",
+  "staticOutput": "E:/project/solutions-step3/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "E:\\project\\solutions-step3\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "E:\\project\\solutions-step3\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "E:/project/solutions-step3/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "E:/project/solutions-step3/src/main/dev-bundle/config",
+  "jarResourcesFolder": "E:/project/solutions-step3/./frontend/generated/jar-resources",
+  "themeName": "training",
+  "clientServiceWorkerSource": "E:\\project\\solutions-step3\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
